@@ -7,3 +7,4 @@ itsdangerous==2.1.2
 setuptools==58.0.4
 zipp==3.8.1
 Flask==2.2.2
+pymongo==4.2.0
